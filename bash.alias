@@ -1,0 +1,5 @@
+# dnmp alias
+
+alias dmaster='docker exec -it master /bin/bash'
+alias dslave='docker exec -it slave /bin/bash'
+
